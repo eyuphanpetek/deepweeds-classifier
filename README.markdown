@@ -84,6 +84,6 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 - Hugging Face Spaces: [https://huggingface.co/docs/hub/spaces](https://huggingface.co/docs/hub/spaces)
 
 ## Contact
-[Eyüphan Petek]  
-[TED University Computer Engineering]    
+Eyüphan Petek  
+TED University Computer Engineering    
 Email: [eyuphan.petek@gmail.com]
